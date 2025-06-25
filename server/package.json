@@ -1,0 +1,13 @@
+{
+  "name": "tic-tac-toe-combined-backend",
+  "version": "1.0.0",
+  "description": "Backend server for Tic Tac Toe game",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
